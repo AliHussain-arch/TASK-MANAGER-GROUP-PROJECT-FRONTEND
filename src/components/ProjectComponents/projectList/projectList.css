@@ -1,0 +1,33 @@
+.Projects-list-cards-contener{
+display: flex;
+flex-wrap:wrap ;
+
+justify-content: center;
+align-content: flex-start;
+
+row-gap: 20px;
+column-gap: 20px;
+
+padding-left: 20px;
+padding-bottom: 20px;
+}
+.Projects-list-cards{
+
+display: grid;
+column-gap: 50px;
+border-width: 2px;
+  width: 28vw;
+  height: 13vw;
+  padding: 2px;
+
+  border-radius: 15px;
+  justify-content: center;
+  border: 3px solid #dddbdb;
+  box-shadow: 0 0 5px #cbcbcb ;
+
+}
+ul{
+
+  padding-inline-start: 0px;
+}
+

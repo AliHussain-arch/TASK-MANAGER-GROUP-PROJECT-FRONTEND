@@ -1,0 +1,87 @@
+.TaskForm-card {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #c0c2ee;
+  }
+  
+  .TaskForm-card h1 {
+    font-size: 1.8em;
+    margin-bottom: 20px;
+    color: #333;
+    text-align: center;
+  }
+  
+  .TaskForm-card form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-bottom: 20px;
+  }
+  
+  .TaskForm-card label {
+    font-size: 1em;
+    color: #555;
+  }
+  
+  .TaskForm-card input,
+  .TaskForm-card textarea {
+    box-shadow: 0 0 5px #ffffff ;
+    border: none;
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding-right: 0px;
+  }
+  
+  .TaskForm-card textarea {
+    resize: vertical;
+    height: 100px;
+  }
+  
+  .TaskForm-card button {
+    background-color: #512da8;
+    color: #fff;
+    font-size: 12px;
+    padding: 10px;
+    border-radius: 8px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    margin-top: 10px;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  .TaskForm-card button:hover {
+    background-color: #44258d;
+    color: #fff;
+    font-size: 13px;
+    padding: 10px ;
+    border-radius: 8px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  
+  .TaskForm-card p {
+    font-size: 1em;
+    color: #555;
+    text-align: center;
+  }
+  
+  .TaskForm-card a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .TaskForm-card a:hover {
+    text-decoration: underline;
+  }
+  

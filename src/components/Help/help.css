@@ -1,0 +1,41 @@
+#help {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #c0c2ee;
+  }
+  
+  #help h2 {
+    color: #333;
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  #help p {
+    color: #666;
+    font-size: 1.2em;
+    line-height: 1.6;
+  }
+  #help ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  #help ul li {
+    margin-bottom: 15px;
+  }
+  
+  #help ul li p {
+    margin: 5px 0 0 20px;
+    font-size: 1em;
+    color: #555;
+  }
+  
+  #help ul li strong {
+    color: #333;
+    font-weight: bold;
+  }
+  

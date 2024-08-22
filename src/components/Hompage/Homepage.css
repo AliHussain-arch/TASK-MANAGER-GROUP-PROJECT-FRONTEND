@@ -1,0 +1,51 @@
+.homeContainer {
+    padding: 40px;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .homeHeader {
+    margin-bottom: 50px;
+  }
+  
+  .homeHeader h1 {
+    font-size: 3em;
+    margin-bottom: 15px;
+  }
+  
+  .homeHeader p {
+    font-size: 1.2em;
+    color: #555;
+  }
+  
+  .homeSection {
+    margin-bottom: 40px;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .homeSection h2 {
+    font-size: 2.5em;
+    margin-bottom: 15px;
+  }
+  
+  .homeSection p {
+    font-size: 1.1em;
+    color: #666;
+    margin-bottom: 20px;
+  }
+  
+  .homeSection ul {
+    list-style-type: disc;
+    padding-left: 40px;
+    text-align: left;
+  }
+  
+  .homeSection li {
+    font-size: 1.1em;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+
+  
